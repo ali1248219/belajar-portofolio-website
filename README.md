@@ -15,3 +15,5 @@
  
 ### JavaScript
 5.2%
+
+Pelajari Ini
